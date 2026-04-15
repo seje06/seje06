@@ -104,18 +104,3 @@ Unity로 만든 간단한 모바일용 영어 단어 학습 프로그램입니�
 
 ---
 
-## Experience Keywords
-
-- C / C++
-- C#
-- Python
-- Windows Programming
-- Network Programming
-- IOCP
-- MFC
-- MySQL / ODBC
-- Unity
-- Unreal Engine
-- Machine Learning / Reinforcement Learning
-- Client UI
-- Server Architecture
