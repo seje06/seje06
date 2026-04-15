@@ -88,6 +88,9 @@
 Windows IOCP 서버와 MFC 클라이언트를 기반으로 만든 채팅 프로그램입니다.  
 로그인, 회원가입, 로비, 방 생성/입장, 채팅 기능을 구현했으며, 세션 관리, JobQueue, Lock 구조, DB 연동 등을 직접 다뤘습니다.
 
+### [ImageManagementProgram](https://github.com/seje06/image_management_program/blob/main/README.md)
+개발했던 이미지 처리 api 서버를 활용하는 cpp 라이브러리, MFC, MySQL을 활용하여 간단한 이미지 관리 프로그램을 개발 하였습니다.
+
 ### [Portfolio](https://github.com/seje06/Portfolio)
 진행했던 프로젝트들을 한 곳에 정리한 저장소입니다.  
 프로젝트 소개, 개발 기간, 기능 요약, PDF, 영상 링크 등을 정리해두었습니다.
