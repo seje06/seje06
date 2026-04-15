@@ -40,7 +40,7 @@
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,unity,unreal,mysql,git,github,visualstudio,windows" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,unity,unreal,mysql,docker,aws,git,github,visualstudio,windows" />
 </p>
 
 <p>
